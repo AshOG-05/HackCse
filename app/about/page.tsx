@@ -8,7 +8,7 @@ export default function AboutPage() {
 
         <div className="prose prose-lg max-w-none">
           <p>
-            StopFoodWaste is a nonprofit organization dedicated to reducing food waste through innovative solutions,
+            WasteNot is a nonprofit organization dedicated to reducing food waste through innovative solutions,
             education, and community engagement. Founded in 2018, we've been working tirelessly to create a more
             sustainable food system.
           </p>

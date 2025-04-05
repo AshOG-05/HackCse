@@ -55,7 +55,7 @@ export default function ContactPage() {
               </div>
               <div>
                 <h3 className="font-semibold">Email</h3>
-                <p className="text-gray-700">info@stopfoodwaste.org</p>
+                <p className="text-gray-700">info@waste-not.org</p>
               </div>
             </div>
 
